@@ -9,7 +9,6 @@
   background-color: #000;
   border: 1px solid #fff;
   align-self: flex-end;
-  margin-bottom: 8px;
   cursor: pointer;
 }
 .profile__edit-button:hover {
