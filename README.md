@@ -16,7 +16,7 @@
 
 **GitHub**
 
-* [Ссылка на страницу GitHub](jueereas.github.io/mesto/)
+* [Ссылка на страницу GitHub](https://jueereas.github.io/mesto/)
 
 
 
