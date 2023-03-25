@@ -4,6 +4,7 @@
 * grid
 * flexbox
 * @media
+* js
 
 **Figma**
 
@@ -15,7 +16,7 @@
 
 **GitHub**
 
-* [Ссылка на страницу GitHub](https://jueereas.github.io/)
+* [Ссылка на страницу GitHub](jueereas.github.io/mesto/)
 
 
 
