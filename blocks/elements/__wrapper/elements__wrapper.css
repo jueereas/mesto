@@ -1,0 +1,12 @@
+.elements__wrapper {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  list-style: none;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 282px));
+  gap: 20px 17px;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
+}
